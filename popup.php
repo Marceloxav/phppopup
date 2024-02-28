@@ -9,7 +9,7 @@
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 </head>
-<title>GASOLINA RESPONDE CERTO 3</title>
+<title>x</title>
 <script type="text/javascript">
 var userAgent = navigator.userAgent.toLowerCase();
 var devices = new Array('nokia','iphone','blackberry','sony','lg',
